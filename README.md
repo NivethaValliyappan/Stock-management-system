@@ -1,0 +1,1 @@
+This prject describes how the Stock Management system is made efficient using java by integration certain things like prediction of needed stock by using previous year datas and the sale and stocking rates and the popularity of things get out of stock based on its dependency on that certain period 
