@@ -1,1 +1,1 @@
-This prject describes how the Stock Management system is made efficient using java by integration certain things like prediction of needed stock by using previous year datas and the sale and stocking rates and the popularity of things get out of stock based on its dependency on that certain period 
+The Stock Management System is a Java-based desktop application designed to manage product inventory efficiently. It allows users to add, view, search, and delete stock records using a MySQL database for secure data storage.
